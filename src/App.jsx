@@ -1,5 +1,5 @@
 import Hero from "./Components/Hero"
-import Demo from "./Components/Demo"
+import Summerizer from "./Components/Summerizer"
 
 import './App.css'
 
@@ -11,7 +11,7 @@ const App = () => {
       </div>
       <div className="app">
         <Hero />
-        <Demo />
+        <Summerizer />
       </div>
     </main>
   )
