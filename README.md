@@ -1,8 +1,15 @@
-# React + Vite
+# Summizy - Article Summerizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## What is it?
+Article Summerizer is a web application that uses the Rapid API Summarizer API to summarize articles. The application is built using React and Redux for state management, and Tailwind CSS for styling. The user can input an article URL and the application will fetch the article content from the URL and then use the Rapid API Summarizer API to generate a summary of the article. The summary will be displayed on the screen.
 
-Currently, two official plugins are available:
+Live Link - 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Screenshot
+<img width='690' src='https://i.ibb.co/CVhGK2V/Screenshot-21.png' alt='Summizy'>
+
+
+
+
+
